@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TemplatTask\TemplatTask\Queue.cpp(33): warning C4715: Queue<int>::pop: значение возвращается не при всех путях выполнения
+C:\Users\Дмитрий Лаптев\source\repos\TemplatTask\TemplatTask\Queue.cpp(24): warning C4715: Queue<int>::push: значение возвращается не при всех путях выполнения
+  TemplatTask.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\TemplatTask\Debug\TemplatTask.exe
