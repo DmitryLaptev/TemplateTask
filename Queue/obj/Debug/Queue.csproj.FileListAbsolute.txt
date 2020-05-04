@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\bin\Debug\Queue.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\bin\Debug\Queue.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\bin\Debug\Queue.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\obj\Debug\Queue.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Queue\obj\Debug\Queue.pdb
