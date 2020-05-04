@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\bin\Debug\Week10.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\bin\Debug\Week10.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\bin\Debug\Week10.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\obj\Debug\Week10.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\obj\Debug\Week10.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week10\Week10\obj\Debug\Week10.pdb
