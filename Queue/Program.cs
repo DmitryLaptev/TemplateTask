@@ -22,7 +22,7 @@ namespace Queue
             q.Pop();
             q.Print();
             Queue<int> qUnion = new Queue<int>(12);
-            qUnion = qUnion.Union(q, q1);
+            qUnion = Queue<int>.Union(q, q1);
             qUnion.Print();
             Console.ReadKey();
         }

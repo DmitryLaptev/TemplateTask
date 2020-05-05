@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Queue
 {
-    class Queue<T>
+    public class Queue<T>
     {
         private T[] Ptr;
         private int Size;
@@ -60,7 +60,7 @@ namespace Queue
             }
             else throw new ArgumentException("Queue is Empty");
         }
-        public Queue<T> Union(Queue<T> q1, Queue<T> q2)
+        public static Queue<T> Union(Queue<T> q1, Queue<T> q2)
         {
             Queue<T> q3 = new Queue<T>(q1.Size + q2.Size);
             int CountQ = 0, ind = q1.Head;
